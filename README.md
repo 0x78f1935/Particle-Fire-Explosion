@@ -27,7 +27,7 @@ Or do them all at once:
 `pacman -S switch-sdl2 switch-sdl2_gfx switch-sdl2_image switch-sdl2_mixer switch-sdl2_net switch-sdl2_ttf`
 
 When all dependencies are installed feel free to build the make file.
-If you are still in the same location as where we started in your terminal execute:
+If you are still in `CD C:\Particle-Fire-Explosion\Nintendo_Switch` type in your terminal to execute the compiler:
 `make`
 
 A bunch of files will apear. In the *root* you will find a `Nintendo_Switch.nro` file. Copy this to your HomeBrewed switch.
