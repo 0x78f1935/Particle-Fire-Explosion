@@ -39,7 +39,7 @@ The first version I learned to make. the precompiled version can be found [here]
 No make files for this one, I'm deeply sorry ~~not~~... You can see the code if you like or load it into eclipse (or whatever editor you use) or you can use the precompiled version to look how it should look on your switch.
 
 ## Video
-[![Vid](https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/Vid.mp4?raw=true)
+[![Vid](http://dakota-ruiters.nl/wp-content/uploads/2016/06/video-play.png)](https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/Vid.mp4?raw=true)
 
 ## Screenshots
 [RED]: https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/images/RED.png?raw=true "RED"
