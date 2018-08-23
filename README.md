@@ -38,8 +38,8 @@ The first version I learned to do. the precompiled version can be found [here](h
 No make files for this one, You can see the code and load it into eclipse. or you can use the precompiled version to look how it should look on your switch.
 
 ## Screenshots
-[RED]: https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/images/RED.png "RED"
-[GREENISH]: https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/images/GREENISH.png "GREENISH"
+[RED]: https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/images/RED.png?raw=true "RED"
+[GREENISH]: https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/images/GREENISH.png?raw=true "GREENISH"
 
 ![RED][RED]
 ![GREENISH][GREENISH]
