@@ -31,3 +31,8 @@ If you are still in the same location as where we started in your terminal execu
 `make`
 
 A bunch of files will apear. In the *root* you will find a `Nintendo_Switch.nro` file. Copy this to your HomeBrewed switch.
+
+## PC
+
+The first version I learned to do. the precompiled version can be found [here](https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/PC/prebuild).
+No make files for this one, You can see the code and load it into eclipse. or you can use the precompiled version to look how it should look on your switch.
