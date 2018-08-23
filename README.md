@@ -30,4 +30,4 @@ When all dependencies are installed feel free to build the make file.
 If you are still in the same location as where we started in your terminal execute:
 `make`
 
-A bunch of files will apear. In the *root* you will find a `pSwitch.nro` file. Copy this to your HomeBrewed switch.
+A bunch of files will apear. In the *root* you will find a `Nintendo_Switch.nro` file. Copy this to your HomeBrewed switch.
