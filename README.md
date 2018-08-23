@@ -38,6 +38,9 @@ A bunch of files will apear. In the *root* dir you will find a `Nintendo_Switch.
 The first version I learned to make. the precompiled version can be found [here](https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/PC/prebuild).
 No make files for this one, I'm deeply sorry ~~not~~... You can see the code if you like or load it into eclipse (or whatever editor you use) or you can use the precompiled version to look how it should look on your switch.
 
+## Video
+[![Vid](http://dakota-ruiters.nl/wp-content/uploads/2016/06/video-play.png)](https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/Vid.mp4?raw=true)
+
 ## Screenshots
 [RED]: https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/images/RED.png?raw=true "RED"
 [GREENISH]: https://github.com/Annihilator708/Particle-Fire-Explosion/blob/master/images/GREENISH.png?raw=true "GREENISH"
