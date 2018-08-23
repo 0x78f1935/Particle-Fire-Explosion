@@ -3,7 +3,7 @@ Visual c++ Effects
 
 ## Nintendo Switch *HomeBrew*
 
-To compile the makefile you need a couple of dependencies. Or you can download the precompiled version here.
+To compile the makefile you need a couple of dependencies. Or you can download the precompiled version [here](https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/Nintendo_Switch/prebuild).
 Make sure DevKitPro is installed, which you can find [here](https://devkitpro.org/wiki/Getting_Started).
 I personally created this build on a windows system and I did not test it on any other OS. (keep that in mind).
 
