@@ -36,3 +36,10 @@ A bunch of files will apear. In the *root* you will find a `Nintendo_Switch.nro`
 
 The first version I learned to do. the precompiled version can be found [here](https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/PC/prebuild).
 No make files for this one, You can see the code and load it into eclipse. or you can use the precompiled version to look how it should look on your switch.
+
+## Screenshots
+[RED]: https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/images/RED.png "RED"
+[GREENISH]: https://github.com/Annihilator708/Particle-Fire-Explosion/tree/master/images/GREENISH.png "GREENISH"
+
+![RED][RED]
+![GREENISH][GREENISH]
